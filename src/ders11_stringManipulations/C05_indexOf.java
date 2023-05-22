@@ -1,4 +1,4 @@
-package ders10_stringManıpulation;
+package ders11_stringManipulations;
 
 public class C05_indexOf {
     public static void main(String[] args) {
@@ -40,5 +40,9 @@ public class C05_indexOf {
                 }else{
                     System.out.println("aradiginiz kelime cumlede 2'den fazla kullanilmis");
                 }
+            }
+
+        }
+
     }
 }
